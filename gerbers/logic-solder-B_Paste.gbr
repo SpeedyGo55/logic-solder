@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.99.0-3415-g545c771fd6*%
+%TF.CreationDate,2025-05-12T13:52:15+02:00*%
+%TF.ProjectId,logic-solder,6c6f6769-632d-4736-9f6c-6465722e6b69,3*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.99.0-3415-g545c771fd6) date 2025-05-12 13:52:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.270000X5.080000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,BT1*%
+X194015000Y-39000000D03*
+X215985000Y-39000000D03*
+%TD*%
+%TO.C,BT2*%
+X168765000Y-39000001D03*
+X190735000Y-39000001D03*
+%TD*%
+M02*
